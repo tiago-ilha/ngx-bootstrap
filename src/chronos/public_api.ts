@@ -70,6 +70,8 @@ export { roLocale }  from './i18n/ro';
 export { ruLocale } from './i18n/ru';
 export { skLocale } from './i18n/sk';
 export { slLocale } from './i18n/sl';
+export { srCyrlLocale } from './i18n/sr-cyrl-rs';
+export { srLatnLocale } from './i18n/sr-latn-rs';
 export { sqLocale } from './i18n/sq';
 export { svLocale } from './i18n/sv';
 export { thLocale } from './i18n/th';
